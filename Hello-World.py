@@ -1,7 +1,7 @@
-# normal person
+# normal person print 'Hello World!'
 print("Hello World!")
 
-# Crazy
+# Crazy man print 'Hello World!'
 import sys
 Class Hello_World:
   def Hello_World():
